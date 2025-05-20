@@ -1,4 +1,4 @@
-# Trucker Mudgeon’s ATS and ETS2 Map
+# Trucker Mudgeon’s ATS and ETS2 Map (Ver Promods by @PiggyWu981)
 
 This repo is a GitHub Pages [deploy](https://truckermudgeon.github.io) of the [`maps`](https://github.com/truckermudgeon/maps) `demo` app. It's meant to serve as a simple online reference 
 of the game maps in [American Truck Simulator](https://americantrucksimulator.com/) and [Euro Truck Simulator 2](https://eurotrucksimulator2.com/).
