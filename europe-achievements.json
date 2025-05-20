@@ -1,0 +1,1365 @@
+[
+  {
+    "token": "sc_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "aalborg",
+      "bergen",
+      "esbjerg",
+      "frederikshv",
+      "gedser",
+      "goteborg",
+      "helsingborg",
+      "hirtshals",
+      "jonkoping",
+      "kalmar",
+      "kapellskar",
+      "karlskrona",
+      "kobenhavn",
+      "kristiansand",
+      "linkoping",
+      "malmo",
+      "nynashamn",
+      "odense",
+      "orebro",
+      "oslo",
+      "sodertalje",
+      "stavanger",
+      "stockholm",
+      "trelleborg",
+      "uppsala",
+      "vasteraas",
+      "vaxjo"
+    ]
+  },
+  {
+    "token": "fr_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "ajaccio",
+      "bastia",
+      "bayonne",
+      "bonifacio",
+      "bordeaux",
+      "bourges",
+      "brest",
+      "calvi",
+      "clermont",
+      "lacq",
+      "larochelle",
+      "lehavre",
+      "lemans",
+      "lile_rousse",
+      "limoges",
+      "marseille",
+      "montpellier",
+      "nantes",
+      "nice",
+      "porto_vecchi",
+      "rennes",
+      "roscoff",
+      "toulouse",
+      "calais",
+      "dijon",
+      "lille",
+      "lyon",
+      "metz",
+      "paris",
+      "reims",
+      "strasbourg"
+    ]
+  },
+  {
+    "token": "fr_visit_corsica",
+    "type": "visitCityData",
+    "cities": [
+      "ajaccio",
+      "bastia",
+      "bonifacio",
+      "calvi",
+      "lile_rousse",
+      "porto_vecchi"
+    ]
+  },
+  {
+    "token": "it_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "ancona",
+      "bari",
+      "bologna",
+      "cagliari",
+      "cassino",
+      "catania",
+      "catanzaro",
+      "firenze",
+      "genova",
+      "livorno",
+      "messina",
+      "napoli",
+      "olbia",
+      "palermo",
+      "parma",
+      "pescara",
+      "roma",
+      "sangiovanni",
+      "sassari",
+      "suzzara",
+      "taranto",
+      "terni",
+      "milano",
+      "torino",
+      "trieste",
+      "venezia",
+      "verona"
+    ]
+  },
+  {
+    "token": "it_visit_sardinia",
+    "type": "visitCityData",
+    "cities": [
+      "cagliari",
+      "olbia",
+      "sassari"
+    ]
+  },
+  {
+    "token": "ba_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "daugavpils",
+      "helsinki",
+      "kaliningrad",
+      "kaunas",
+      "klaipeda",
+      "kotka",
+      "kouvola",
+      "kunda",
+      "lahti",
+      "liepaja",
+      "loviisa",
+      "luga",
+      "mazeikiai",
+      "naantali",
+      "narva",
+      "olkiluoto",
+      "paldiski",
+      "panevezys",
+      "parnu",
+      "petersburg",
+      "pori",
+      "pskov",
+      "rezekne",
+      "riga",
+      "siauliai",
+      "sosnovy_bor",
+      "tallinn",
+      "tampere",
+      "tartu",
+      "turku",
+      "utena",
+      "valmiera",
+      "ventspils",
+      "vilnius",
+      "vyborg"
+    ]
+  },
+  {
+    "token": "be_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "bacau",
+      "brasov",
+      "bucuresti",
+      "burgas",
+      "calarasi",
+      "cernavoda",
+      "cluj_napoca",
+      "constanta",
+      "craiova",
+      "edirne",
+      "galati",
+      "hunedoara",
+      "iasi",
+      "istanbul",
+      "karlovo",
+      "kozloduy",
+      "mangalia",
+      "pernik",
+      "pirdop",
+      "pitesti",
+      "pleven",
+      "plovdiv",
+      "resita",
+      "ruse",
+      "sofia",
+      "targu_mures",
+      "tekirdag",
+      "timisoara",
+      "varna",
+      "veli_tarnovo"
+    ]
+  },
+  {
+    "token": "ib_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "a_coruna",
+      "albacete",
+      "algeciras",
+      "almaraz",
+      "almeria",
+      "badajoz",
+      "bailen",
+      "barcelona",
+      "beja",
+      "bilbao",
+      "burgos",
+      "ciudad_real",
+      "coimbra",
+      "cordoba",
+      "corticadas",
+      "el_ejido",
+      "evora",
+      "faro",
+      "gijon",
+      "granada",
+      "guarda",
+      "huelva",
+      "leon",
+      "lisboa",
+      "lleida",
+      "madrid",
+      "malaga",
+      "mengibar",
+      "murcia",
+      "navia",
+      "o_barco",
+      "olhao",
+      "pamplona",
+      "ponte_de_sor",
+      "port_sagunt",
+      "porto",
+      "puertollano",
+      "salamanca",
+      "santander",
+      "setubal",
+      "sevilla",
+      "sines",
+      "soria",
+      "tarragona",
+      "teruel",
+      "valencia",
+      "valladolid",
+      "vandellos",
+      "vigo",
+      "villarreal",
+      "zaragoza"
+    ]
+  },
+  {
+    "token": "bw_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "banja_luka",
+      "beograd",
+      "bihac",
+      "bijelo_polje",
+      "bitola",
+      "durres",
+      "fier",
+      "karakaj",
+      "koper",
+      "kragujevac",
+      "ljubljana",
+      "maribor",
+      "mostar",
+      "niksic",
+      "nis",
+      "novi_sad",
+      "novo_mesto",
+      "osijek",
+      "podgorica",
+      "pristina",
+      "rijeka",
+      "sarajevo",
+      "skopje",
+      "split",
+      "tirana",
+      "tuzla",
+      "vlore",
+      "zadar",
+      "zagreb",
+      "zenica"
+    ]
+  },
+  {
+    "token": "gr_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "argostoli",
+      "athens",
+      "chania",
+      "chios",
+      "heraklion",
+      "ioannina",
+      "kalamata",
+      "kavala",
+      "lamia",
+      "larissa",
+      "mitilini",
+      "patras",
+      "rhodes",
+      "thessaloniki",
+      "trikala"
+    ]
+  },
+  {
+    "token": "job_urgent",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "job_2000_km",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "job_no_ferry",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "perfect_delivery",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "use_automatic_parking",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "5_jobs_in_a_row",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "sc_volvo_cargo",
+    "type": "deliveryLogData",
+    "locations": [
+      {
+        "type": "company",
+        "company": "volvo_fac",
+        "city": "goteborg"
+      }
+    ],
+    "cargos": [
+      "volvo_tr"
+    ]
+  },
+  {
+    "token": "sc_scania_cargo",
+    "type": "deliveryLogData",
+    "locations": [
+      {
+        "type": "company",
+        "company": "scania_fac",
+        "city": "sodertalje"
+      }
+    ],
+    "cargos": [
+      "scania_tr"
+    ]
+  },
+  {
+    "token": "hc_firstjob",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "asph_miller",
+      "cable_reel",
+      "concr_beams",
+      "dozer",
+      "locomotive",
+      "metal_center",
+      "mob_crusher",
+      "mob_screener",
+      "mob_stacker",
+      "mobile_crane",
+      "transformat"
+    ]
+  },
+  {
+    "token": "hc_threeperf",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "asph_miller",
+      "cable_reel",
+      "concr_beams",
+      "dozer",
+      "locomotive",
+      "metal_center",
+      "mob_crusher",
+      "mob_screener",
+      "mob_stacker",
+      "mobile_crane",
+      "transformat"
+    ]
+  },
+  {
+    "token": "hc_250t5jobs",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "asph_miller",
+      "cable_reel",
+      "concr_beams",
+      "dozer",
+      "locomotive",
+      "metal_center",
+      "mob_crusher",
+      "mob_screener",
+      "mob_stacker",
+      "mobile_crane",
+      "transformat"
+    ]
+  },
+  {
+    "token": "st_first_cargo",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "boiler_parts",
+      "cat_785c",
+      "condensator",
+      "ex_bucket",
+      "heat_exch",
+      "lattice",
+      "m_59_80_r63",
+      "mystery_box",
+      "mystery_cyl",
+      "pilot_boat",
+      "silo"
+    ]
+  },
+  {
+    "token": "st_no_damage",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "boiler_parts",
+      "cat_785c",
+      "condensator",
+      "ex_bucket",
+      "heat_exch",
+      "lattice",
+      "m_59_80_r63",
+      "mystery_box",
+      "mystery_cyl",
+      "pilot_boat",
+      "silo"
+    ]
+  },
+  {
+    "token": "st_silo",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "silo"
+    ]
+  },
+  {
+    "token": "st_cat_785c",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "cat_785c"
+    ]
+  },
+  {
+    "token": "st_pilot_boat",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "pilot_boat"
+    ]
+  },
+  {
+    "token": "st_mass",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "boiler_parts",
+      "cat_785c",
+      "condensator",
+      "ex_bucket",
+      "heat_exch",
+      "lattice",
+      "m_59_80_r63",
+      "mystery_box",
+      "mystery_cyl",
+      "pilot_boat",
+      "silo"
+    ]
+  },
+  {
+    "token": "ba_to_russia",
+    "type": "deliveryLogData",
+    "locations": [
+      {
+        "type": "city",
+        "city": "kaliningrad"
+      },
+      {
+        "type": "city",
+        "city": "luga"
+      },
+      {
+        "type": "city",
+        "city": "petersburg"
+      },
+      {
+        "type": "city",
+        "city": "pskov"
+      },
+      {
+        "type": "city",
+        "city": "sosnovy_bor"
+      },
+      {
+        "type": "city",
+        "city": "vyborg"
+      }
+    ],
+    "cargos": []
+  },
+  {
+    "token": "ba_concrete",
+    "type": "deliveryLogData",
+    "locations": [
+      {
+        "type": "company",
+        "company": "radus",
+        "city": "kouvola"
+      },
+      {
+        "type": "company",
+        "company": "radus",
+        "city": "tampere"
+      },
+      {
+        "type": "company",
+        "company": "radus",
+        "city": "tartu"
+      },
+      {
+        "type": "company",
+        "company": "radus_ru",
+        "city": "petersburg"
+      }
+    ],
+    "cargos": []
+  },
+  {
+    "token": "be_istanbul_jobs",
+    "type": "deliveryLogData",
+    "locations": [
+      {
+        "type": "city",
+        "city": "istanbul"
+      }
+    ],
+    "cargos": []
+  },
+  {
+    "token": "ib_container_ports",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "algeciras"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "barcelona"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "bilbao"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "gijon"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "lisboa"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "malaga"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "porto"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "sines"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "tarragona"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "valencia"
+        },
+        {
+          "company": "ts_atlas",
+          "locationType": "city",
+          "locationToken": "vigo"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ib_solar_power_plants",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "engeron",
+          "locationType": "city",
+          "locationToken": "badajoz"
+        },
+        {
+          "company": "engeron",
+          "locationType": "city",
+          "locationToken": "ciudad_real"
+        },
+        {
+          "company": "engeron",
+          "locationType": "city",
+          "locationToken": "granada"
+        },
+        {
+          "company": "engeron",
+          "locationType": "city",
+          "locationToken": "puertollano"
+        },
+        {
+          "company": "engeron",
+          "locationType": "city",
+          "locationToken": "sevilla"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ib_shipyards",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "ocean_sol",
+          "locationType": "city",
+          "locationToken": "algeciras"
+        },
+        {
+          "company": "ocean_sol",
+          "locationType": "city",
+          "locationToken": "gijon"
+        },
+        {
+          "company": "ocean_sol",
+          "locationType": "city",
+          "locationToken": "setubal"
+        },
+        {
+          "company": "ocean_sol",
+          "locationType": "city",
+          "locationToken": "vigo"
+        }
+      ]
+    }
+  },
+  {
+    "token": "gr_hotels",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "artemia",
+          "locationType": "city",
+          "locationToken": "argostoli"
+        },
+        {
+          "company": "artemia",
+          "locationType": "city",
+          "locationToken": "chania"
+        },
+        {
+          "company": "artemia",
+          "locationType": "city",
+          "locationToken": "chios"
+        },
+        {
+          "company": "artemia",
+          "locationType": "city",
+          "locationToken": "mitilini"
+        },
+        {
+          "company": "artemia",
+          "locationType": "city",
+          "locationToken": "rhodes"
+        }
+      ]
+    }
+  },
+  {
+    "token": "gr_olive",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "eliarchos",
+          "locationType": "country",
+          "locationToken": "greece"
+        }
+      ]
+    }
+  },
+  {
+    "token": "gr_marble",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "rock_eater",
+          "locationType": "country",
+          "locationToken": "greece"
+        }
+      ]
+    }
+  },
+  {
+    "token": "sc_deliver_marinas",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "marina",
+        "city": "stockholm"
+      },
+      {
+        "company": "marina",
+        "city": "oslo"
+      },
+      {
+        "company": "marina",
+        "city": "esbjerg"
+      }
+    ]
+  },
+  {
+    "token": "sc_container_ports",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "cont_port",
+        "city": "oslo"
+      },
+      {
+        "company": "cont_port",
+        "city": "esbjerg"
+      }
+    ]
+  },
+  {
+    "token": "sc_quarries_cargo",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "ms_stein",
+        "city": "stavanger"
+      },
+      {
+        "company": "ms_stein",
+        "city": "kristiansand"
+      },
+      {
+        "company": "ms_stein",
+        "city": "oslo"
+      },
+      {
+        "company": "nord_sten",
+        "city": "jonkoping"
+      },
+      {
+        "company": "nord_sten",
+        "city": "kalmar"
+      },
+      {
+        "company": "nord_sten",
+        "city": "linkoping"
+      },
+      {
+        "company": "nord_sten",
+        "city": "vaxjo"
+      }
+    ]
+  },
+  {
+    "token": "fr_nucplants",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "nucleon",
+        "city": "alban"
+      },
+      {
+        "company": "nucleon",
+        "city": "civaux"
+      },
+      {
+        "company": "nucleon",
+        "city": "golfech"
+      },
+      {
+        "company": "nucleon",
+        "city": "laurent"
+      },
+      {
+        "company": "nucleon",
+        "city": "paluel"
+      }
+    ]
+  },
+  {
+    "token": "fr_airports",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "fle",
+        "city": "bastia"
+      },
+      {
+        "company": "fle",
+        "city": "brest"
+      },
+      {
+        "company": "fle",
+        "city": "calvi"
+      },
+      {
+        "company": "fle",
+        "city": "paris"
+      },
+      {
+        "company": "fle",
+        "city": "nantes"
+      },
+      {
+        "company": "fle",
+        "city": "toulouse"
+      },
+      {
+        "company": "fle",
+        "city": "montpellier"
+      },
+      {
+        "company": "fle",
+        "city": "clermont"
+      }
+    ]
+  },
+  {
+    "token": "fr_truckstop",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "eco",
+        "city": "lemans"
+      },
+      {
+        "company": "eco",
+        "city": "nantes"
+      },
+      {
+        "company": "eco",
+        "city": "lehavre"
+      },
+      {
+        "company": "eco",
+        "city": "bordeaux"
+      },
+      {
+        "company": "eco",
+        "city": "montpellier"
+      },
+      {
+        "company": "eco",
+        "city": "marseille"
+      },
+      {
+        "company": "eco",
+        "city": "limoges"
+      }
+    ]
+  },
+  {
+    "token": "it_shipyards",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "c_navale",
+        "city": "ancona"
+      },
+      {
+        "company": "c_navale",
+        "city": "messina"
+      }
+    ]
+  },
+  {
+    "token": "it_quarry",
+    "type": "eachCompanyData",
+    "role": "source",
+    "companies": [
+      {
+        "company": "marmo",
+        "city": "livorno"
+      }
+    ]
+  },
+  {
+    "token": "ba_industry",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "lvr",
+        "city": "daugavpils"
+      },
+      {
+        "company": "lvr",
+        "city": "daugavpils"
+      },
+      {
+        "company": "lvr",
+        "city": "riga"
+      },
+      {
+        "company": "lvr",
+        "city": "riga"
+      },
+      {
+        "company": "renat",
+        "city": "daugavpils"
+      },
+      {
+        "company": "renat",
+        "city": "daugavpils"
+      },
+      {
+        "company": "renat",
+        "city": "helsinki"
+      },
+      {
+        "company": "renat",
+        "city": "helsinki"
+      },
+      {
+        "company": "renat",
+        "city": "rezekne"
+      },
+      {
+        "company": "renat",
+        "city": "rezekne"
+      },
+      {
+        "company": "renat",
+        "city": "riga"
+      },
+      {
+        "company": "renat",
+        "city": "riga"
+      },
+      {
+        "company": "renat",
+        "city": "siauliai"
+      },
+      {
+        "company": "renat",
+        "city": "siauliai"
+      },
+      {
+        "company": "renat",
+        "city": "tartu"
+      },
+      {
+        "company": "renat",
+        "city": "tartu"
+      },
+      {
+        "company": "ee_paper",
+        "city": "kunda"
+      },
+      {
+        "company": "ee_paper",
+        "city": "kunda"
+      },
+      {
+        "company": "viljo_paper",
+        "city": "kouvola"
+      },
+      {
+        "company": "viljo_paper",
+        "city": "kouvola"
+      },
+      {
+        "company": "viljo_paper",
+        "city": "tampere"
+      },
+      {
+        "company": "viljo_paper",
+        "city": "tampere"
+      },
+      {
+        "company": "viln_paper",
+        "city": "vilnius"
+      },
+      {
+        "company": "viln_paper",
+        "city": "vilnius"
+      }
+    ]
+  },
+  {
+    "token": "ba_farm",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "agrominta",
+        "city": "utena"
+      },
+      {
+        "company": "eviksi",
+        "city": "daugavpils"
+      },
+      {
+        "company": "eviksi",
+        "city": "liepaja"
+      },
+      {
+        "company": "eviksi",
+        "city": "riga"
+      },
+      {
+        "company": "onnelik",
+        "city": "narva"
+      },
+      {
+        "company": "onnelik",
+        "city": "parnu"
+      },
+      {
+        "company": "zelenye",
+        "city": "petersburg"
+      },
+      {
+        "company": "egres",
+        "city": "helsinki"
+      },
+      {
+        "company": "egres",
+        "city": "kouvola"
+      },
+      {
+        "company": "agrominta_a",
+        "city": "utena"
+      },
+      {
+        "company": "eviksi_a",
+        "city": "liepaja"
+      },
+      {
+        "company": "eviksi_a",
+        "city": "valmiera"
+      },
+      {
+        "company": "eviksi_a",
+        "city": "ventspils"
+      },
+      {
+        "company": "onnelik_a",
+        "city": "parnu"
+      },
+      {
+        "company": "onnelik_a",
+        "city": "tartu"
+      },
+      {
+        "company": "zelenye_a",
+        "city": "kaliningrad"
+      }
+    ]
+  },
+  {
+    "token": "fr_landmarks",
+    "type": "triggerData",
+    "param": "fr_landmarks",
+    "count": 6
+  },
+  {
+    "token": "it_volcanoes",
+    "type": "triggerData",
+    "param": "it_volcanoes",
+    "count": 2
+  },
+  {
+    "token": "it_roads_to_rome",
+    "type": "triggerData",
+    "param": "it_roads_to_rome",
+    "count": 4
+  },
+  {
+    "token": "be_border_crossings",
+    "type": "triggerData",
+    "param": "be_border_crossings",
+    "count": 5
+  },
+  {
+    "token": "be_blke_ferry",
+    "type": "triggerData",
+    "param": "be_blke_ferry",
+    "count": 1
+  },
+  {
+    "token": "be_landmarks",
+    "type": "triggerData",
+    "param": "be_landmarks",
+    "count": 5
+  },
+  {
+    "token": "ib_cutscenes",
+    "type": "triggerData",
+    "param": "ib_cutscenes",
+    "count": 15
+  },
+  {
+    "token": "bw_cutscenes",
+    "type": "triggerData",
+    "param": "bw_cutscenes",
+    "count": 15
+  },
+  {
+    "token": "gr_cutscenes",
+    "type": "triggerData",
+    "param": "gr_cutscenes",
+    "count": 8
+  },
+  {
+    "token": "sc_cows_to_farm",
+    "type": "deliverCargoData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "aria_food",
+        "city": "aalborg"
+      },
+      {
+        "company": "aria_food",
+        "city": "esbjerg"
+      },
+      {
+        "company": "aria_food",
+        "city": "jonkoping"
+      },
+      {
+        "company": "aria_food",
+        "city": "trelleborg"
+      }
+    ]
+  },
+  {
+    "token": "ba_job_countries",
+    "type": "eachDeliveryPoint",
+    "sources": [
+      ".ba_job_count.russia.lithuania.source",
+      ".ba_job_count.lithuania.latvia.source",
+      ".ba_job_count.latvia.estonia.source",
+      ".ba_job_count.estonia.russia.source",
+      ".ba_job_count.russia.finland.source"
+    ],
+    "targets": [
+      ".ba_job_count.russia.lithuania.target",
+      ".ba_job_count.lithuania.latvia.target",
+      ".ba_job_count.latvia.estonia.target",
+      ".ba_job_count.estonia.russia.target",
+      ".ba_job_count.russia.finland.target"
+    ]
+  },
+  {
+    "token": "be_black_sea",
+    "type": "eachDeliveryPoint",
+    "sources": [
+      ".be_black_sea.istanbul.burgas.source",
+      ".be_black_sea.burgas.varna.source",
+      ".be_black_sea.varna.mangalia.source",
+      ".be_black_sea.mangalia.constanta.source"
+    ],
+    "targets": [
+      ".be_black_sea.istanbul.burgas.target",
+      ".be_black_sea.burgas.varna.target",
+      ".be_black_sea.varna.mangalia.target",
+      ".be_black_sea.mangalia.constanta.target"
+    ]
+  },
+  {
+    "token": "be_express",
+    "type": "eachDeliveryPoint",
+    "sources": [
+      ".be_express.paris.strasbourg.source",
+      ".be_express.strasbourg.munchen.source",
+      ".be_express.munchen.wien.source",
+      ".be_express.wien.budapest.source",
+      ".be_express.budapest.bucuresti.source",
+      ".be_express.bucuresti.istanbul.source"
+    ],
+    "targets": [
+      ".be_express.paris.strasbourg.target",
+      ".be_express.strasbourg.munchen.target",
+      ".be_express.munchen.wien.target",
+      ".be_express.wien.budapest.target",
+      ".be_express.budapest.bucuresti.target",
+      ".be_express.bucuresti.istanbul.target"
+    ]
+  },
+  {
+    "token": "bw_pristina_bijelo_polje",
+    "type": "eachDeliveryPoint",
+    "sources": [
+      ".bw_pris_bije.bijelo_polje"
+    ],
+    "targets": [
+      ".bw_pris_bije.pristina"
+    ]
+  },
+  {
+    "token": "st_all_routes",
+    "type": "oversizeRoutesData"
+  },
+  {
+    "token": "use_train",
+    "type": "ferryDataByType",
+    "ferryType": "train"
+  },
+  {
+    "token": "use_boat",
+    "type": "ferryDataByType",
+    "ferryType": "ferry"
+  },
+  {
+    "token": "ib_a_coruna",
+    "type": "delivery",
+    "delivery": {
+      "type": "city",
+      "cities": [
+        {
+          "cityToken": "lisboa"
+        },
+        {
+          "cityToken": "a_coruna"
+        },
+        {
+          "cityToken": "pamplona"
+        },
+        {
+          "cityToken": "a_coruna"
+        },
+        {
+          "cityToken": "sevilla"
+        },
+        {
+          "cityToken": "a_coruna"
+        }
+      ]
+    }
+  },
+  {
+    "token": "bw_coastline",
+    "type": "delivery",
+    "delivery": {
+      "type": "city",
+      "cities": [
+        {
+          "cityToken": "rijeka"
+        },
+        {
+          "cityToken": "zadar"
+        },
+        {
+          "cityToken": "zadar"
+        },
+        {
+          "cityToken": "split"
+        },
+        {
+          "cityToken": "split"
+        },
+        {
+          "cityToken": "niksic"
+        }
+      ]
+    }
+  },
+  {
+    "token": "use_all_ports",
+    "type": "compareData",
+    "achievementName": "use_all_ports"
+  },
+  {
+    "token": "discover_all_agencies",
+    "type": "compareData",
+    "achievementName": "discover_all_agencies"
+  },
+  {
+    "token": "sc_oresund_bridge",
+    "type": "visitPrefabData",
+    "prefab": "dlc_no_23"
+  }
+]
