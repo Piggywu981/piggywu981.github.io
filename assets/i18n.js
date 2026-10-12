@@ -186,6 +186,6 @@ window.PROJECTS_EN = {
   },
   "piggywu981.github.io": {
     t: "This Site's Source",
-    d: "The repository behind this index page: static HTML/CSS/JS, no framework and no build step. Created but not yet pushed, so the site itself is not live."
+    d: "The repository behind this index page: static HTML/CSS/JS, no framework and no build step."
   }
 };

@@ -1,6 +1,6 @@
 // 静态数据打底：抓取自 https://api.github.com/users/Piggywu981/repos （2026-10-12，21 条）
 // 新增/删除仓库或上线新演示后，改这里即可；页面加载时 app.js 会用 API 增量刷新 star 与更新时间。
-// 末条 piggywu981.github.io 是本站自身源码，带 self 标记，不占用在线演示位（站点尚未发布）。
+// 末条 piggywu981.github.io 是本站自身源码，带 self 标记，站点已上线所以也占一个在线演示位。
 window.PROJECTS = [
   {
     n: "ie-research-simulation",
@@ -157,8 +157,9 @@ window.PROJECTS = [
   {
     n: "piggywu981.github.io",
     t: "本站源码",
-    d: "这个入口站自身的仓库：纯静态 HTML/CSS/JS，无框架、无构建步骤。仓库已建但尚未推送，站点还未发布。",
+    d: "这个入口站自身的仓库：纯静态 HTML/CSS/JS，无框架、无构建步骤。",
     l: "HTML", c: "web", self: true,
+    live: "https://piggywu981.github.io/",
     s: 0, p: "2026-10-12"
   }
 ];
