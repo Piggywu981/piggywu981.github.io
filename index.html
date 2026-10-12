@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Piggywu981 · Project Index</title>
+<meta name="description" content="Every public project by Piggywu981 in one place: live demos, source and downloads.">
+<meta name="color-scheme" content="dark light">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23080704'/><text x='4' y='23' font-size='20' fill='%23ffd24d' font-family='monospace'>%3E_%3C/text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="el" aria-hidden="true">
+  <span class="el-edge"></span>
+  <span class="el-bloom"></span>
+</div>
+
+<div class="rail" aria-hidden="true">
+  <span class="rail-text">PIGGYWU981&nbsp;&nbsp;//&nbsp;&nbsp;PROJECT&nbsp;INDEX&nbsp;&nbsp;//&nbsp;&nbsp;2026</span>
+  <span class="rail-ticks"></span>
+</div>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <span class="chrome" aria-hidden="true"><i></i><i></i><i></i></span>
+    <img class="avatar" src="https://avatars.githubusercontent.com/u/67211263?v=4" alt="Piggywu981" width="48" height="48">
+    <div class="idblock">
+      <h1>Piggywu981</h1>
+      <p class="bio">Brave piggy has nothing to fear for! 🙌</p>
+      <p class="meta-line" id="profile-meta" data-i18n="metaLine">Beijing, China · github.com/Piggywu981</p>
+    </div>
+    <div class="actions">
+      <a class="btn btn-ghost" href="https://github.com/Piggywu981" target="_blank" rel="noopener" data-i18n="github">GitHub profile</a>
+      <button id="lang-toggle" class="btn btn-ghost" type="button" lang="zh" aria-label="切换到中文">中文</button>
+      <button id="theme-toggle" class="btn btn-ghost" type="button" data-i18n="themeBtn" data-i18n-al="themeBtnAl" aria-label="Toggle light or dark theme">◐ Theme</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero" aria-label="Overview">
+    <div class="hero-left">
+      <p class="prompt"><span class="user">piggy@github</span><span class="sep">:</span><span class="path">~/projects</span><span class="dollar">$</span> <span class="typed">ls --all --entries</span><span class="caret" aria-hidden="true">▊</span></p>
+      <h2 class="wordmark">PROJECT INDEX</h2>
+      <pre class="bootlog" id="bootlog" role="status" aria-live="polite">[ ok ] index.json ......... 21 repo entries
+[ ok ] deployments ........ 5 directly reachable live demos
+[ ok ] fork mirrors ....... 7 mirrors (separate section)
+[ ok ] toolchain .......... —
+[ ·· ] github api ......... syncing</pre>
+      <p class="hero-stats" id="hero-stats"></p>
+    </div>
+
+    <aside class="panel readout" aria-label="Readout">
+      <p class="panel-title" data-i18n="readoutTitle">◤ READOUT ◢</p>
+      <div class="rd-grid">
+        <div class="rd"><b data-stat="total">0</b><span data-i18n="rd.total">public repos</span></div>
+        <div class="rd"><b data-stat="own">0</b><span data-i18n="rd.own">own</span></div>
+        <div class="rd"><b data-stat="fork">0</b><span data-i18n="rd.fork">fork</span></div>
+        <div class="rd rd-live"><b data-stat="live">0</b><span data-i18n="rd.live">live</span></div>
+      </div>
+      <div class="scope" aria-hidden="true"><span class="scope-line"></span><span class="scope-dot"></span></div>
+      <p class="panel-foot"><span id="live-label">5 LIVE</span> · <span data-i18n="panelFootColor">DISPLAY</span> <span class="amber">#FFD24D</span></p>
+    </aside>
+  </section>
+
+  <section id="live-section" aria-labelledby="live-title">
+    <h2 id="live-title" class="section-title"><span class="frame">┌─[ <b>01</b> ]─</span><span class="sec-name" data-i18n="sections.live">Live demos · one click</span><span class="rule"></span><span class="count" id="live-count"></span></h2>
+    <div class="live-grid" id="live-grid"></div>
+  </section>
+
+  <nav class="toolbar" aria-label="Filters" data-i18n-al="toolbarAl">
+    <div class="searchbox">
+      <span class="search-prompt" aria-hidden="true">&gt;</span>
+      <input id="search" type="search" data-i18n-ph="searchPh" data-i18n-al="searchAl" placeholder="grep name / summary / language　(press / to focus)" aria-label="Search projects">
+      <kbd aria-hidden="true">/</kbd>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filter by category" data-i18n-al="filterAl"></div>
+    <label class="switch">
+      <input type="checkbox" id="only-live">
+      <span class="track" aria-hidden="true"></span>
+      <span data-i18n="onlyLive">Live only</span>
+    </label>
+  </nav>
+
+  <section id="own-section" aria-labelledby="own-title">
+    <h2 id="own-title" class="section-title"><span class="frame">┌─[ <b>02</b> ]─</span><span class="sec-name" data-i18n="sections.own">Own projects</span><span class="rule"></span><span class="count" id="own-count"></span></h2>
+    <div class="grid" id="own-grid"></div>
+  </section>
+
+  <section id="fork-section" aria-labelledby="fork-title">
+    <h2 id="fork-title" class="section-title"><span class="frame">┌─[ <b>03</b> ]─</span><span class="sec-name" data-i18n="sections.fork">Fork mirrors</span><span class="rule"></span><span class="count" id="fork-count"></span></h2>
+    <p class="fork-note" data-i18n="forkNote">// Mirrors of other people's repositories, kept for backup or local changes; upstream links included.</p>
+    <div class="grid" id="fork-grid"></div>
+  </section>
+
+  <p class="empty" id="empty" hidden><span class="fail">exit 1</span> — <span data-i18n="empty">No project matches. Try another keyword.</span></p>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="foot-rule" aria-hidden="true">└──────────────────────────────────────────────────────────┘</p>
+    <div class="plate" id="toolchain" aria-label="Tooling and model versions for this page" data-i18n-al="foot.syncAl"></div>
+    <p id="sync-state" data-i18n="syncLine.idle">Project data ships inside the page; on load it tries to refresh stars and push dates from the GitHub API.</p>
+    <p class="foot-links">
+      <a href="https://github.com/Piggywu981?tab=repositories" target="_blank" rel="noopener" data-i18n="links.allRepos">All repositories</a> ·
+      <a href="https://github.com/Piggywu981" target="_blank" rel="noopener">github.com/Piggywu981</a> ·
+      <a href="#live-section" data-i18n="links.top">Back to live entries</a>
+    </p>
+  </div>
+</footer>
+
+<script src="assets/projects.js"></script>
+<script src="assets/i18n.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
